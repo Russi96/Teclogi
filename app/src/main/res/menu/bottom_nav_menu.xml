@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gamesFragment"
+        android:icon="@drawable/ic_videogame_asset"
+        android:title="@string/games_fragment" />
+
+    <item
+        android:id="@+id/favoriteGamesFragment"
+        android:icon="@drawable/ic_house"
+        android:title="@string/stores_fragment" />
+
+</menu>
